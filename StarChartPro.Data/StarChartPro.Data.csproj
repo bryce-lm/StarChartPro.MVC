@@ -54,7 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AOLocation.cs" />
+    <Compile Include="AstObjLocation.cs" />
     <Compile Include="AstroObject.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Migrations\202104150759177_add-migrations-v1.cs" />

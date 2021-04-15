@@ -15,7 +15,7 @@ namespace StarChartPro.Data
         [Required]
         public string OriginName { get; set; }
         
-        public string OriginDescription { get; set; }
+        public string OriginDesc { get; set; }
         
         [Required]
         public decimal Latitude { get; set; }

@@ -54,6 +54,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AstObjLocationModels\AstObjLocationDelete.cs" />
+    <Compile Include="AstObjLocationModels\AstObjLocationList.cs" />
+    <Compile Include="AstObjLocationModels\AstObjLocationEdit.cs" />
+    <Compile Include="AstObjLocationModels\AstObjLocationCreate.cs" />
+    <Compile Include="AstObjModels\AstroObjCreate.cs" />
+    <Compile Include="AstObjModels\AstroObjDelete.cs" />
+    <Compile Include="AstObjModels\AstroObjEdit.cs" />
+    <Compile Include="AstObjModels\AstroObjList.cs" />
+    <Compile Include="OriginModels\OriginCreate.cs" />
+    <Compile Include="OriginModels\OriginDelete.cs" />
+    <Compile Include="OriginModels\OriginEdit.cs" />
+    <Compile Include="OriginModels\OriginListItems.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
