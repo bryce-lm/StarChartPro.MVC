@@ -1,0 +1,16 @@
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\StarChartPro.Services.dll.config
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\StarChartPro.Services.dll
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\StarChartPro.Services.pdb
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\EntityFramework.dll
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\EntityFramework.xml
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\obj\Debug\StarChartPro.Services.csprojAssemblyReference.cache
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\obj\Debug\StarChartPro.Services.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\obj\Debug\StarChartPro.Services.csproj.CopyComplete
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\obj\Debug\StarChartPro.Services.dll
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\obj\Debug\StarChartPro.Services.pdb

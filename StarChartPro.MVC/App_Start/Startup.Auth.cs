@@ -5,6 +5,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
+using StarChartPro.Data;
 using StarChartPro.MVC.Models;
 
 namespace StarChartPro.MVC

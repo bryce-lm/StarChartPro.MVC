@@ -251,6 +251,20 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StarChartPro.Data\StarChartPro.Data.csproj">
+      <Project>{0146ecd5-0db1-45dd-87b3-95411a6a3ae0}</Project>
+      <Name>StarChartPro.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StarChartPro.Models\StarChartPro.Models.csproj">
+      <Project>{013bd2bb-4076-4f06-8945-473eb6d33975}</Project>
+      <Name>StarChartPro.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StarChartPro.Services\StarChartPro.Services.csproj">
+      <Project>{4cee2f7a-914c-4d82-8190-7848bab73763}</Project>
+      <Name>StarChartPro.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

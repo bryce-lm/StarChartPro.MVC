@@ -54,7 +54,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AOLocation.cs" />
+    <Compile Include="AstroObject.cs" />
     <Compile Include="IdentityModels.cs" />
+    <Compile Include="Origin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
