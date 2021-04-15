@@ -65,7 +65,7 @@
     <Compile Include="OriginModels\OriginCreate.cs" />
     <Compile Include="OriginModels\OriginDelete.cs" />
     <Compile Include="OriginModels\OriginEdit.cs" />
-    <Compile Include="OriginModels\OriginListItems.cs" />
+    <Compile Include="OriginModels\OriginListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

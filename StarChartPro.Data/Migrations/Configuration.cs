@@ -10,12 +10,12 @@ namespace StarChartPro.Data.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
+            ContextKey = "RedBadgeProj.Data.ApplicationDbContext";
         }
 
         protected override void Seed(StarChartPro.Data.ApplicationDbContext context)
         {
             //  This method will be called after migrating to the latest version.
-
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
             //  to avoid creating duplicate seed data. E.g.
             //

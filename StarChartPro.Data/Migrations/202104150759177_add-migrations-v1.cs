@@ -3,7 +3,7 @@ namespace StarChartPro.Data.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class addmigrationsv1 : DbMigration
+    public partial class Addmigrationsv1 : DbMigration
     {
         public override void Up()
         {

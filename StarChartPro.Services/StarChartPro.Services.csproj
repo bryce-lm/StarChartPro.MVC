@@ -54,11 +54,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OriginService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StarChartPro.Data\StarChartPro.Data.csproj">
+      <Project>{0146ecd5-0db1-45dd-87b3-95411a6a3ae0}</Project>
+      <Name>StarChartPro.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StarChartPro.Models\StarChartPro.Models.csproj">
+      <Project>{013bd2bb-4076-4f06-8945-473eb6d33975}</Project>
+      <Name>StarChartPro.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

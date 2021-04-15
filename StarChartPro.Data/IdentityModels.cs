@@ -22,10 +22,10 @@ namespace StarChartPro.Data
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
-        public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
-        {
-        }
+        public ApplicationDbContext() : base("DefaultConnection", throwIfV1Schema: false){}
+        public DbSet<Origin> Origins { get; set; }
+        public DbSet<AstroObject> AstroObjects { get; set; }
+        public DbSet<AstObjLocation> AstObjLocations { get; set; }
 
         public static ApplicationDbContext Create()
         {

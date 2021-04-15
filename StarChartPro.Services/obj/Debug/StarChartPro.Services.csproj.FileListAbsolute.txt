@@ -14,3 +14,9 @@ C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\obj\Debug\Sta
 C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\obj\Debug\StarChartPro.Services.csproj.CopyComplete
 C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\obj\Debug\StarChartPro.Services.dll
 C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\obj\Debug\StarChartPro.Services.pdb
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\StarChartPro.Data.dll
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\StarChartPro.Models.dll
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\StarChartPro.Data.pdb
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\StarChartPro.Data.dll.config
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\StarChartPro.Models.pdb
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Services\bin\Debug\StarChartPro.Models.dll.config

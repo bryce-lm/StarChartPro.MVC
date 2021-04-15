@@ -1,0 +1,63 @@
+﻿@model IEnumerable<StarChartPro.Models.OriginModels.OriginListItem>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OriginName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Latitude)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Longitude)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OriginDesc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OriginGalaxy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedUtc)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OriginName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Latitude)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Longitude)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OriginDesc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OriginGalaxy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedUtc)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.OriginId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.OriginId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.OriginId })
+        </td>
+    </tr>
+}
+
+</table>

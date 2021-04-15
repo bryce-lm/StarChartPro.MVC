@@ -45,6 +45,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Accessibility" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -235,6 +236,8 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Origin\Create.cshtml" />
+    <Content Include="Views\Origin\List.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

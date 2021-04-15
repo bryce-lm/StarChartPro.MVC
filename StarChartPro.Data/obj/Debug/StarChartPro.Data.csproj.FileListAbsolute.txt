@@ -16,3 +16,4 @@ C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Data\obj\Debug\StarCha
 C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Data\obj\Debug\StarChartPro.Data.pdb
 C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Data\obj\Debug\StarChartPro.Data.Migrations.addmigrationsv1.resources
 C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Data\obj\Debug\StarChartPro.Data.csproj.GenerateResource.cache
+C:\Users\Bryce\source\repos\StarChartPro.MVC\StarChartPro.Data\obj\Debug\StarChartPro.Data.Migrations.addmigrationv2.resources
