@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarChartPro.MVC", "StarChartPro.MVC\StarChartPro.MVC.csproj", "{7B17B9D2-3D60-48AF-B125-E39D9B16E85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarChartPro.Data", "StarChartPro.Data\StarChartPro.Data.csproj", "{0146ECD5-0DB1-45DD-87B3-95411A6A3AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarChartPro.Models", "StarChartPro.Models\StarChartPro.Models.csproj", "{013BD2BB-4076-4F06-8945-473EB6D33975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarChartPro.Services", "StarChartPro.Services\StarChartPro.Services.csproj", "{4CEE2F7A-914C-4D82-8190-7848BAB73763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B17B9D2-3D60-48AF-B125-E39D9B16E85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B17B9D2-3D60-48AF-B125-E39D9B16E85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B17B9D2-3D60-48AF-B125-E39D9B16E85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B17B9D2-3D60-48AF-B125-E39D9B16E85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0146ECD5-0DB1-45DD-87B3-95411A6A3AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0146ECD5-0DB1-45DD-87B3-95411A6A3AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0146ECD5-0DB1-45DD-87B3-95411A6A3AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0146ECD5-0DB1-45DD-87B3-95411A6A3AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{013BD2BB-4076-4F06-8945-473EB6D33975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013BD2BB-4076-4F06-8945-473EB6D33975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013BD2BB-4076-4F06-8945-473EB6D33975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013BD2BB-4076-4F06-8945-473EB6D33975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEE2F7A-914C-4D82-8190-7848BAB73763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEE2F7A-914C-4D82-8190-7848BAB73763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEE2F7A-914C-4D82-8190-7848BAB73763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEE2F7A-914C-4D82-8190-7848BAB73763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB1438F-901C-4133-B419-5DB1EEB67BF6}
+	EndGlobalSection
+EndGlobal
